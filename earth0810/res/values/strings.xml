@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Translate strings within <string></string> tags into your language. -->
+<resources>
+
+    <!-- Do not translate next line -->
+    <string name="app_name">保卫地心</string>
+    <!--
+    \n stands for new line symbol. Program treat \n as a line break.
+    You can divide your strings into lines of reasonable length yourself or leave that work for me.
+    -->
+    <string name="ready">准备好了吗？\n\n触碰屏幕,开启游戏！</string>
+    <string name="paused">游戏暂停\n\n触摸屏幕恢复</string>
+    <string name="game_over">游戏结束\n\n触摸屏幕\n\n重新启动</string>
+    <string name="your_time">你的时间:</string>
+    <string name="game_url"></string>
+    <string name="game_guize">规则很简单:\n保护核心(青色大点在屏幕的中心)尽可能长\n获得健康(青色点)和使用盾牌(蓝色圆点)</string>
+    <!-- Don't forget to specify the language! You can do it in the letter or in this comment. -->
+
+</resources>

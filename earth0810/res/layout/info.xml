@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="规则很简单:
+保护核心(青色大点在屏幕的中心)尽可能长
+获得健康(青色点)和使用盾牌(蓝色圆点)"
+        android:textSize="16sp" />
+
+</LinearLayout>
